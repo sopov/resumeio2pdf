@@ -1,4 +1,4 @@
-module github.com/sopov/resumeio2pdf v1.0.0
+module github.com/sopov/resumeio2pdf
 
 go 1.16
 
