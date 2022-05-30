@@ -15,3 +15,14 @@ Options:
 *  `-verbose` show detail information
 *  `-version` show version
 *  `-y`	overwrite PDF file
+
+## How to build an executable file
+
+In brief:
+```bash
+go build
+```
+
+If you don't understand, visit:
+* [Download and install Go](https://go.dev/doc/install)
+* [Compile and install the application](https://go.dev/doc/tutorial/compile-install)
