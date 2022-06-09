@@ -26,3 +26,7 @@ go build
 If you don't understand, visit:
 * [Download and install Go](https://go.dev/doc/install)
 * [Compile and install the application](https://go.dev/doc/tutorial/compile-install)
+
+## Docker
+
+There is a complete example in [examples/docker](examples/docker).
