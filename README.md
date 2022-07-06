@@ -26,3 +26,7 @@ go build
 If you don't understand, visit:
 * [Download and install Go](https://go.dev/doc/install)
 * [Compile and install the application](https://go.dev/doc/tutorial/compile-install)
+
+## It's all complicated for me...
+
+Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
