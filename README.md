@@ -6,6 +6,7 @@ This program downloads resumes from [resume.io](https://resume.io/) and saves th
 
 ```bash
 resumeio2pdf [options] [ID or URL]
+resumeio2pdf https://resume.io/r/SecureID
 ```
 
 Options:
