@@ -31,3 +31,11 @@ If you don't understand, visit:
 ## It's all complicated for me...
 
 Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
+
+## I don't know what to do with this file
+
+Try googling some like: `how to run a program from command line`
+
+## Can you just please send me my downloaded resume? Or maybe make a video tutorial?
+
+https://resume.io/pricing
