@@ -36,6 +36,10 @@ Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
 
 Try googling some like: `how to run a program from command line`
 
-## Can you just please send me my downloaded resume? Or maybe make a video tutorial?
+## Other questions
 
-https://resume.io/pricing
+* I am unable to use GO, neither install or run it in any way.  
+* Can you just please send me my downloaded resume? 
+* Can you make a video tutorial?
+
+Please visit https://resume.io/pricing
