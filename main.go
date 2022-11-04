@@ -23,7 +23,7 @@ const (
 	CopyURL       = "https://github.com/sopov/resumeio2pdf/"
 
 	resumePage = "https://resume.io/r/%s"
-	resumeMeta = "https://ssr.resume.tools/meta/ssid-%s"
+	resumeMeta = "https://ssr.resume.tools/meta/ssid-%s?cache=%s"
 	resumeExt  = "png" // png, jpeg
 	resumeIMG  = "https://ssr.resume.tools/to-image/ssid-%s-%d.%s?cache=%s&size=%d"
 	resumeSize = 1800
@@ -231,7 +231,7 @@ func getJSON(url string, target interface{}) error {
 }
 
 func getMeta() (meta *metaInfo, err error) {
-	metaURL := fmt.Sprintf(resumeMeta, *sid)
+	metaURL := fmt.Sprintf(resumeMeta, *sid, time.Now().UTC().Format(time.RFC3339))
 	meta = &metaInfo{}
 	err = getJSON(metaURL, meta)
 
