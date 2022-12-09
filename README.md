@@ -5,7 +5,8 @@ This program downloads resumes from [resume.io](https://resume.io/) and saves th
 ## Usage
 
 ```bash
-resumeio2pdf [options] [ID or URL]
+./resumeio2pdf [options] [ID or URL]
+./resumeio2pdf https://resume.io/r/SecureID
 ```
 
 Options:
@@ -30,3 +31,19 @@ If you don't understand, visit:
 ## Docker
 
 There is a complete example in [examples/docker](examples/docker).
+
+## It's all complicated for me...
+
+Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
+
+## I don't know what to do with this file
+
+Try googling some like: `how to run a program from command line`
+
+## Other questions
+
+* I am unable to use GO, neither install or run it in any way.  
+* Can you just please send me my downloaded resume? 
+* Can you make a video tutorial?
+
+Please visit https://resume.io/pricing
