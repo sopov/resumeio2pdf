@@ -51,6 +51,3 @@ Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
 * Can you make a video tutorial?
 
 Please visit the [pricing page on Resume.io](https://resume.io/pricing) which provides fair and affordable prices for this service, including an easy method of downloading your resume without the use of this software.
-
-## Disclaimer
-Please note that the information provided by this software is intended for use by subscribed customers of resume.io. Any unauthorized access or use of this software is strictly prohibited and may result in legal action. By using this software, you agree to comply with all applicable laws and regulations. The creators waive all responsibility for any damages or harm that may result from the use of this software. The software is provided "as is" and the creators do not guarantee the accuracy of the information provided.
