@@ -45,6 +45,10 @@ Options:
 ## Alternative Methods
 Repository with binary files: https://github.com/sopov/resumeio2pdf.bin
 
+### Docker
+
+There is a complete example in [examples/docker](examples/docker).
+
 ## Other Questions and Concerns
 * I don't understand how to install and/or use Go.
 * Can you download my resume for me? 
