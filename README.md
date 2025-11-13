@@ -1,5 +1,8 @@
 # resumeio2pdf
 
+> ⚠️ This project is no longer maintained.  
+> Resume.io made changes on their side, so the tool no longer works.
+
 A progam that allows users to download their resumes from [resume.io](https://resume.io/) as PDFs, including links.
 
 ## Usage
